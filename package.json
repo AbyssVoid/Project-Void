@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
+		"url": "https://github.com/Zedzed17/Project-Void"
 	},
 	"keywords": [
 		"bot",
@@ -26,9 +26,9 @@
 	"author": "Ron Zedric Laurente",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
+		"url": "https://github.com/Zedzed17/Project-Void"
 	},
-	"homepage": "https://github.com/ZiaRein/ZiaReinBypass/issues",
+	"homepage": "https://github.com/Zedzed17/Project-Void",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
